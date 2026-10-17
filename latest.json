@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0",
+  "versionCode": 4,
+  "versionName": "4.0",
   "apkUrl": "https://github.com/IlthonAliaga/bioalert-updates/releases/download/v3.0/BioAlert.apk",
   "mandatory": true,
   "releaseNotes": "Nueva actualización de BioAlert 3.0."
