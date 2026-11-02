@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
   "versionName": "5.0",
-  "apkUrl": "https://github.com/IlthonAliaga/bioalert-updates/releases/download/v4.0/BioAlert.apk",
+  "apkUrl": "https://github.com/IlthonAliaga/bioalert-updates/releases/download/v5.0/BioAlert.apk",
   "mandatory": true,
-  "releaseNotes": "Nueva actualización de BioAlert 4.0."
+  "releaseNotes": "Nueva actualización de BioAlert 5.0."
 }
